@@ -47,16 +47,9 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/junaid-aslam-4824b51b8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/junaid-aslam-4824b51b8" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100014657020502" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100014657020502" height="30" width="40" /></a>
  <a href="https://stackoverflow.com/users/17001958/junaidaslamrajput-2" target="blank"><img align="center" src="https://user-images.githubusercontent.com/83652548/139556201-5479e72d-8092-425d-8ad6-91ba33ec85fe.png" alt="https://stackoverflow.com/users/17001958/junaidaslamrajput-2" height="30" width="40" /></a> 
-<!-- <a href="https://instagram.com/https://www.instagram.com/naveed_kk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/naveed_kk" height="30" width="40" /></a> -->
-<!-- <a href="https://www.hackerrank.com/https://www.hackerrank.com/naveedkaimkhami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/naveedkaimkhami" height="30" width="40" /></a>
-</p>
- -->
+
 <h3 align="left">Languages and Tools:</h3>
  <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60"/> </a> </p> 
-<!-- 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?Junaid-Aslam&show_icons=true&locale=en&layout=compact" alt="Junaid-Aslam" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?Junaid-Aslam&show_icons=true&locale=en" alt="Junaid-Aslam" /></p> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Junaid-Aslam&" alt="Junaid-Aslam" /></p>
-<!-- ![Stack_Overflow-Logo wine](https://user-images.githubusercontent.com/83652548/139556201-5479e72d-8092-425d-8ad6-91ba33ec85fe.png) -->
