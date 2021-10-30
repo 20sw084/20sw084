@@ -59,4 +59,4 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?Junaid-Aslam&show_icons=true&locale=en" alt="Junaid-Aslam" /></p> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Junaid-Aslam&" alt="Junaid-Aslam" /></p>
-![Stack_Overflow-Logo wine](https://user-images.githubusercontent.com/83652548/139556201-5479e72d-8092-425d-8ad6-91ba33ec85fe.png)
+<!-- ![Stack_Overflow-Logo wine](https://user-images.githubusercontent.com/83652548/139556201-5479e72d-8092-425d-8ad6-91ba33ec85fe.png) -->
