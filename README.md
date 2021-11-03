@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Junaid</h1>
 <h3 align="center">Guy that Figuring-Out Coding stuff!!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Junaid-Aslam&label=Profile%20views&color=0e75b6&style=flat" alt="Junaid-Aslam" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=20sw084&label=Profile%20views&color=0e75b6&style=flat" alt="Junaid-Aslam" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Junaid-Aslam" alt="Junaid-Aslam" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=20sw084" alt="Junaid-Aslam" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/JunaidA11173402" target="blank"><img src="https://img.shields.io/twitter/follow/junaidaslam?logo=twitter&style=for-the-badge" alt="Junaid-Aslam" /></a> </p>
 
@@ -52,7 +52,7 @@ Here are some ideas to get you started:
  <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60"/> </a> </p> 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Junaid-Aslam&" alt="Junaid-Aslam" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=20sw084&" alt="Junaid-Aslam" /></p>
 
 <div align="center">
 <p > 
@@ -75,3 +75,8 @@ Here are some ideas to get you started:
   </a>
 </p>
 </div>
+
+<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=20sw084&theme=radical"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=20sw084&layout=compact&langs_count=8&theme=radical"/>
+ </div>
