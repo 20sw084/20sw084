@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **junaidaslam.muet@gmail.com**
 
-- ⚡ Fun fact **A fitenss freak**
+- ⚡ Fun fact **A Dreamer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -53,3 +53,25 @@ Here are some ideas to get you started:
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Junaid-Aslam&" alt="Junaid-Aslam" /></p>
+
+<div align="center">
+<p > 
+    
+  <h3 >IDE's I Use</h3> 
+  <a href="#" target="_blank"> 
+    <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+  </a>
+<!--     &emsp;
+  <a href="#" target="_blank"> 
+    <img alt="Intellij" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
+  </a> -->
+   &emsp;
+  <a href="#" target="_blank"> 
+    <img alt="eclipse" src="https://img.shields.io/badge/eclipse-001234.svg?style=for-the-badge&logo=eclipse&logoColor=blue"/>
+  </a>
+   &emsp;
+  <a href="#" target="_blank"> 
+    <img alt="Dev" src="https://img.shields.io/badge/Dev-001576.svg?style=for-the-badge&logo=Dev&logoColor=blue"/>
+  </a>
+</p>
+</div>
