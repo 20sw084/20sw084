@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 <div align="center">
 <p > 
     
-  <h3 >IDE's I Use</h3> 
+  <h3 >IDE's that I Familiar With:</h3> 
   <a href="#" target="_blank"> 
     <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
   </a>
