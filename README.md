@@ -49,7 +49,7 @@ Here are some ideas to get you started:
   <a href="https://www.hackerrank.com/junaidaslamrajp1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/junaidaslamrajp1" height="30" width="40" /></a>
   
   <a href="https://www.sololearn.com/profile/21981051" target="blank"><img align="center" src="https://github.com/20sw084/20sw084/blob/d13c0848532eb89aed5d28dc57856d2b74d17b43/sololearn.png" alt="https://www.sololearn.com/profile/21981051" height="30" width="40" /></a>
- <a href="https://stackoverflow.com/users/17001958/junaidaslamrajput-2" target="blank"><img align="center" src="https://user-images.githubusercontent.com/83652548/139556201-5479e72d-8092-425d-8ad6-91ba33ec85fe.png" alt="https://stackoverflow.com/users/17001958/junaidaslamrajput-2" height="30" width="40" /></a> 
+ <a href="https://stackoverflow.com/users/17001958/junaidaslamrajput-2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/17001958/junaidaslamrajput-2" height="30" width="40" /></a> 
 
  <h3 align="left">Languages and Tools:</h3>
  
