@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi 👋, I'm Junaid</h1>
-<h3 align="center">Guy that Figuring-Out Coding stuff!!</h3>
+<h3 align="center">A PASSIONATE SOFTWARE DEVELOPER</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=20sw084&label=Profile%20views&color=0e75b6&style=flat" alt="Junaid-Aslam" /> </p>
 
