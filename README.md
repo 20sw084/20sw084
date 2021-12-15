@@ -25,10 +25,12 @@ Here are some ideas to get you started:
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=20sw084" alt="Junaid-Aslam" /></a> </p> -->
 
+
+ https://github-profile-trophy.vercel.app/?username=20SW084&theme=juicyfresh
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=20SW084)](https://github.com/ryo-ma/github-profile-trophy)
 
  
- https://github-profile-trophy.vercel.app/?username=20SW084&theme=juicyfresh
  
 <p align="left"> <a href="https://twitter.com/JunaidA11173402" target="blank"><img src="https://img.shields.io/twitter/follow/junaidaslam?logo=twitter&style=for-the-badge" alt="Junaid-Aslam" /></a> </p>
 
