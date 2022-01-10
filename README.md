@@ -33,11 +33,11 @@ Here are some ideas to get you started:
  
 <p align="left"> <a href="https://twitter.com/JunaidA11173402" target="blank"><img src="https://img.shields.io/twitter/follow/junaidaslam?logo=twitter&style=for-the-badge" alt="Junaid-Aslam" /></a> </p>
 
-- 🔭 I’m currently working on **App development**
+- 🔭 I’m currently working on **Data Structure and Algorithms**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **DSA in Java**
 
-- 👯 I’m looking to collaborate on **Android development**
+<!-- - 👯 I’m looking to collaborate on **Anything** -->
 
 - 🤝 I’m looking for help to **learning more and more about new technologies**
 
