@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=20sw084&label=Profile%20views&color=0e75b6&style=flat" alt="Junaid-Aslam" /> </p> -->
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=20sw084" alt="Junaid-Aslam" /></a> </p> -->
+<!--  To Be UnCommented <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=20sw084" alt="Junaid-Aslam" /></a> </p> -->  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=20SW084&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
 
