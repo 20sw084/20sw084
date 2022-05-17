@@ -96,8 +96,8 @@ width="40" height="40"/> </a>
 </p>
 </div>
 
-<div align="center">
+<!-- <div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=20sw084&theme=radical"/>
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=20sw084&layout=compact&langs_count=8&theme=radical"/>
- </div>
+ </div> -->
 
