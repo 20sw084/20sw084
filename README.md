@@ -1,11 +1,11 @@
 ![Github-Profile-readme-cover-image](https://user-images.githubusercontent.com/83048208/158230827-11c55113-2704-4c7d-b960-99d9e0ee0113.jpg)
 <br/>
 <div>
-    <a href="https://github.com/zainsadaqat" target="_blank">
-        <img alt="GitHub followers" src="https://img.shields.io/github/followers/zainsadaqat?label=Github&style=flat">
+    <a href="https://github.com/20sw084" target="_blank">
+        <img alt="GitHub followers" src="[https://img.shields.io/github/followers/zainsadaqat?label=Github&style=flat](https://img.shields.io/github/followers/20sw084)">
     </a>
-    <a href="https://github.com/zainsadaqat" target="_blank">
-        <img src="https://komarev.com/ghpvc/?username=zainsadaqat&label=Profile%20views&color=0e75b6&style=flat" alt="zainsadaqat" />
+    <a href="https://github.com/20sw084" target="_blank">
+        <img src="https://komarev.com/ghpvc/?username=20sw084&label=Profile%20views&color=0e75b6&style=flat" alt="20sw084" />
    </a> 
 </div>
 <br/>
