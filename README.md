@@ -1,7 +1,7 @@
 
 <h1>Hey, My Name is Junaid Aslam  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 <br/>
-<h3 align="center">A PASSIONATE SOFTWARE DEVELOPER</h3>
+<!-- <h3 align="center">A PASSIONATE SOFTWARE DEVELOPER</h3> -->
 <p>I’m currently enrolled in a Mehran University of Engineering and Technology where I spend 8+ hours every day working on different projects using the latest technologies by pair-programming with students from all over the world.</p>
   
 ## Feel Free To Connect With Me! <img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="40px" />
@@ -14,14 +14,7 @@
 [![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:junaidaslam.muet@gmail.com)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@junaidaslam.muet)
 
-<div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=20sw084&" alt="20sw084" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=20sw084&show_icons=true&locale=en" alt="20sw084" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=20sw084&show_icons=true&locale=en&layout=compact" alt="20sw084" /></p>
-<div>
-    <img align='center'  height="70" alt="Thanks" width="100%" src="https://github.com/zainsadaqat/zainsadaqat/blob/main/Thanks.svg"/>
-</div>
-</div>
+
 
 <br />
 <h3> 👱 Visitors count </h3>
@@ -128,3 +121,13 @@ width="40" height="40"/> </a>
   <img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=20sw084&theme=material-palenight&hide_border=true&fire=C77800&ring=7C2AE8&background=1F222E" />
 </p>
 <div align="center"> <img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg" /></div>
+
+
+<div align="center">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=20sw084&" alt="20sw084" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=20sw084&show_icons=true&locale=en" alt="20sw084" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=20sw084&show_icons=true&locale=en&layout=compact" alt="20sw084" /></p>
+<div>
+    <img align='center'  height="70" alt="Thanks" width="100%" src="https://github.com/zainsadaqat/zainsadaqat/blob/main/Thanks.svg"/>
+</div>
+</div>
