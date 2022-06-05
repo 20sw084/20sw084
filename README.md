@@ -2,7 +2,7 @@
 <h1>Hey, I am Junaid Aslam  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 <br/>
 <!-- <h3 align="center">A PASSIONATE SOFTWARE DEVELOPER</h3> -->
-<p>I’m currently enrolled in Software Engineering at Mehran University of Engineering and Technology, Jamshoro. where I spend 8+ hours every day working on different projects using the latest technologies by pair-programming with students from all over the world.</p>
+<p>I’m currently enrolled in Software Engineering at Mehran University of Engineering and Technology, Jamshoro. where I spend couple of hours every day working on different projects using different technologies.</p>
   
 ## Feel Free To Connect With Me! <img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="40px" />
 
