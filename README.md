@@ -132,3 +132,7 @@ width="40" height="40"/> </a>
     <img align='center'  height="70" alt="Thanks" width="100%" src="https://github.com/zainsadaqat/zainsadaqat/blob/main/Thanks.svg"/>
 </div>
 </div>
+
+
+
+[![An image of @20sw084's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/20sw084)](https://holopin.io/@20sw084)
