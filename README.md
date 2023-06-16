@@ -98,13 +98,10 @@ width="40" height="40"/> </a>
 <!--     &emsp;
   <a href="#" target="_blank"> 
     <img alt="Git-Bash" src="https://github.com/kerol2r20/Windows-terminal-context-menu/blob/master/icons/git-bash.ico"/>
-  </a> -->
-  
-<!--    &emsp; -->
+  </a> -->  
   <a href="#" target="_blank"> 
     <img alt="eclipse" src="https://img.shields.io/badge/eclipse-001234.svg?style=for-the-badge&logo=eclipse&logoColor=blue"/>
   </a>
-<!--    &emsp; -->
   <a href="#" target="_blank"> 
     <img alt="Dev" src="https://img.shields.io/badge/Dev-001576.svg?style=for-the-badge&logo=Dev&logoColor=blue"/>
   </a>
