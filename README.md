@@ -116,10 +116,10 @@ width="40" height="40"/> </a>
 
 
 <hr>
-<p align="center">
+<!-- <p align="center">
   <img width="400px" src="https://github-readme-stats.vercel.app/api?username=20sw084&count_private=true&show_icons=true&theme=material-palenight&hide_border=true&bg_color=1F222E" />
   <img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=20sw084&theme=material-palenight&hide_border=true&fire=C77800&ring=7C2AE8&background=1F222E" />
-</p>
+</p> -->
 <!-- <div align="center"> <img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg" /></div> -->
 
 ---
