@@ -53,10 +53,6 @@ width="40" height="40"/> </a>
   <a href="#" target="_blank"> 
     <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
   </a>
-<!--     &emsp;
-  <a href="#" target="_blank"> 
-    <img alt="Git-Bash" src="https://github.com/kerol2r20/Windows-terminal-context-menu/blob/master/icons/git-bash.ico"/>
-  </a> -->  
   <a href="#" target="_blank"> 
     <img alt="eclipse" src="https://img.shields.io/badge/eclipse-001234.svg?style=for-the-badge&logo=eclipse&logoColor=blue"/>
   </a>
