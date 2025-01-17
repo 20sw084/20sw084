@@ -1,7 +1,7 @@
                        
-<h1>Hey, I am Junaid Aslam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+<h1>Hi, I am Junaid Aslam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 <br/>
-<p>I’m currently enrolled in Software Engineering at Mehran University of Engineering and Technology, Jamshoro. where I spend couple of hours every day working on different projects using different technologies.</p>
+<p>I hold a degree in Software Engineering from Mehran University of Engineering and Technology, Jamshoro. I enjoy working on diverse projects using cutting-edge technologies and continuously expanding my skill set.</p>
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ouuan.vercel.app/api?username=20sw084&theme=dark&show_icons=true">
@@ -16,7 +16,6 @@
 -   :seedling: Fresh Software Engineering Graduate 
 -   :thought_balloon: Ask me anything at Discussions!
   
-
 <br />
 
  <h3 align="left">Languages and Tools:</h3>
