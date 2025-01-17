@@ -2,7 +2,7 @@
 <h1>Hi, I am Junaid Aslam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 <br/>
 <p>I hold a degree in Software Engineering from Mehran University of Engineering and Technology, Jamshoro. I enjoy working on diverse projects using cutting-edge technologies and continuously expanding my skill set.</p>
-
+<br/>
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ouuan.vercel.app/api?username=20sw084&theme=dark&show_icons=true">
     <img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=20sw084&show_icons=true">
