@@ -13,11 +13,9 @@
 -   :key: DevOps / Kubernetes / Chef / Jenkins / AWS / GCP / Ruby / Linux / Python & Shell Scripting / CI/CD
 -   :mag: Data Analysis / Visualization / Machine Learning / Artificial Intelligence / Python / Jupyter Notebook
 -   :package: C++ / C / Assembly Language / Haskell
--   :seedling: Doing Web security research with @chenjj
+-   :seedling: Fresh Software Engineering Graduate 
 -   :thought_balloon: Ask me anything at Discussions!
   
-
-
 
 <br />
 
