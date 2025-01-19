@@ -15,7 +15,7 @@
 -   :package: C++ / C / Assembly Language / Haskell
 -   :seedling: Fresh Software Engineering Graduate 
 -   :thought_balloon: Ask me anything at Discussions!
--   :package: Portfolio: [https://20sw084.github.io/]
+-   :pencil2: Portfolio: [https://20sw084.github.io/]
   
 <br />
 <h3>Things I code with</h3>
