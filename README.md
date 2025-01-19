@@ -27,7 +27,6 @@
   <img alt="C" src="https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white" />
   <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" />
   <img alt="Android" src="https://img.shields.io/badge/Android-11-blue" />
-  <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-Chipmunk-brightgreen" />
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img alt="Android" src="https://img.shields.io/badge/Android-11-blue" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
@@ -45,10 +44,13 @@
 
   <h3 >IDE's that I Worked With:</h3> 
   <a href="#" target="_blank"> 
-    <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+    <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-Chipmunk-brightgreen"/>
   </a>
   <a href="#" target="_blank"> 
-    <img alt="eclipse" src="https://img.shields.io/badge/eclipse-001234.svg?style=for-the-badge&logo=eclipse&logoColor=blue"/>
+    <img alt="VS Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=plastic"/>
+  </a>
+  <a href="#" target="_blank"> 
+    <img alt="eclipse" src="https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white"/>
   </a>
   <a href="#" target="_blank"> 
     <img alt="Dev" src="https://img.shields.io/badge/Dev-001576.svg?style=for-the-badge&logo=Dev&logoColor=blue"/>
