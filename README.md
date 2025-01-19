@@ -28,7 +28,6 @@
   <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" />
   <img alt="Android" src="https://img.shields.io/badge/Android-11-blue" />
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img alt="Android" src="https://img.shields.io/badge/Android-11-blue" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Github Actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
@@ -51,9 +50,6 @@
   </a>
   <a href="#" target="_blank"> 
     <img alt="eclipse" src="https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white"/>
-  </a>
-  <a href="#" target="_blank"> 
-    <img alt="Dev" src="https://img.shields.io/badge/Dev-001576.svg?style=for-the-badge&logo=Dev&logoColor=blue"/>
   </a>
 </p>
 </div>
