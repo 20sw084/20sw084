@@ -1,4 +1,4 @@
-                         
+                          
 <h1>Hi, I am Junaid Aslam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 <br/>
 <p>I hold a degree in Software Engineering from Mehran University of Engineering and Technology, Jamshoro. I enjoy working on diverse projects using cutting-edge technologies and continuously expanding my skill set.</p>
